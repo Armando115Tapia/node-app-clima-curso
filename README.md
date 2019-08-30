@@ -30,3 +30,8 @@ Siempre enviar al comienzo https://
 
 ### El ASYNC y el AWAIT 
 Para manejar los erroes dentro de asycns y awaist se utliza un try catch
+
+## Para utilizar
+```javascript
+node .\app.js -d "Buenos Aires"
+```
